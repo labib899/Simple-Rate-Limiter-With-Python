@@ -16,7 +16,7 @@ A minimal rate-limiting application with a Python backend and a React frontend.
    ```
 3. Run the backend:
    ```bash
-   python main.py
+   uvicorn main:app --reload
    ```
 
 ## Frontend Setup
