@@ -21,11 +21,7 @@ A minimal rate-limiting application with a Python backend and a React frontend.
 
 ## Frontend Setup
 
-1. Create the React app with Vite:
-   ```bash
-   npm create vite@latest frontend
-   ```
-2. Install dependencies and start the frontend:
+1. Install dependencies and start the frontend:
    ```bash
    cd frontend
    npm install
